@@ -50,3 +50,5 @@ lib/
 example/vendor/bundle/
 
 example/ios/Config.xcconfig
+temp_auto_push.bat
+temp_interactive_push.bat
